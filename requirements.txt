@@ -1,0 +1,20 @@
+# 2. Instale as bibliotecas necessárias usando o pip.
+#    Abra o terminal e execute os seguintes comandos:
+
+#    pip install python-docx
+#    pip install fpdf
+
+# 3. Após instalar as bibliotecas, você pode executar este script normalmente:
+#    python JSon_Word.py
+
+# Nota: Se você estiver usando um ambiente virtual (virtualenv), ative-o antes de instalar as bibliotecas.
+#       Para criar e ativar um ambiente virtual, use os comandos abaixo:
+#       python -m venv venv
+#       venv\Scripts\activate  (No Windows)
+#       source venv/bin/activate  (No Linux/Mac)
+
+# Agora você está pronto para rodar o script!
+fpdf==1.7.2
+lxml==5.3.2
+python-docx==1.1.2
+typing_extensions==4.13.2
