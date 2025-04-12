@@ -1,6 +1,6 @@
   # Currículo Python
 
-Este é o projeto **Currículo Python**, desenvolvido para [descreva brevemente o objetivo do projeto, por exemplo: "gerar currículos personalizados usando Python"].
+Este é o projeto **Currículo Python**, desenvolvido para Gerar currículos personalizados usando Python que gera um arquivo WORD e python pegando os dados de um dicionario.
 
 ## 🚀 Funcionalidades
 
@@ -31,14 +31,14 @@ pip install -r requirements.txt
 
 ▶️ Como rodar
 
-python main.py
+python JSon_Word.py
 
 📖 Exemplo de uso
-[Adicione exemplos de como usar o projeto, incluindo entradas e saídas esperadas.]
+[Será salvo seu arquivo na pasta DOCS]
 
 🤝 Contribuição
 Contribuições são sempre bem-vindas! Sinta-se à vontade para enviar issues e pull requests.
 
 📄 Licença
-[Adicione a licença do projeto. Exemplo: "Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes."]
+
 
